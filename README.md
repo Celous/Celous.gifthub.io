@@ -5,7 +5,7 @@
 </head>
 <body>
 	<header>
-		<h1>Welcome T0 Celous Store</h1>
+		<h1>Welcome To Celous Store</h1>
 		<nav>
 			<ul>
 				<li><a href="#">Home</a></li>
